@@ -9,8 +9,8 @@ const about = {
   name: "Afif Hibatullah",
   role: "Full Stack Engineer",
   description:
-    "Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.",
-  resume: "https://example.com",
+    "I have over one years experience working with Javascript. While at school I also got experience creating projects by making an app on my integrated development environment. At my position I developed apps to help others work more efficiently with their computer.",
+  resume: "/Resume-Afif-Hibatullah.pdf",
   social: {
     linkedin: "https://www.linkedin.com/in/afif-hibatullah",
     github: "https://github.com/afifhibatullahh",
@@ -24,9 +24,9 @@ const projects = [
     name: "Enterprise Resource Planning",
     description:
       "Enterprise resource planning (ERP) is a platform companies use to manage and integrate the essential parts of their businesses. My team and I created features in the form of buying and selling, multi-company, licensing, accounting, products, stock, and so on",
-    stack: ["JavaScript", "Material UI", "React", "CodeIgniter4"],
+    stack: ["JavaScript", "Material UI", "React", "CodeIgniter4", "PWA"],
     sourceCode: "#",
-    livePreview: "#",
+    livePreview: "https://erp-test.nezucode.com/",
   },
   {
     name: "Laundry App",
@@ -65,7 +65,6 @@ const skills = [
 ];
 
 const contact = {
-  // email is optional - if left empty Contact section won't show up
   email: "afifhibatullah59@gmail.com",
 };
 
